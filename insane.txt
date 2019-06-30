@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master branch
+=======
+newBranch
+>>>>>>> 461ac3b4f9475bd203dfcfb72e96ea596935151d
